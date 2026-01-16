@@ -1,0 +1,20 @@
+# Checkmate Vision - Dependencies
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+
+# Chess
+python-chess>=1.10.0
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+
+# Optional: For Jupyter Notebook
+# jupyter>=1.0.0
+# ipywidgets>=8.0.0
